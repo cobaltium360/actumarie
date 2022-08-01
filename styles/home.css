@@ -1,0 +1,130 @@
+/* header */
+
+.pink{
+    color: rgb(238, 57, 57);
+}
+
+.green{
+    color: green;
+}
+
+h1{
+    margin: 0;
+}
+.container_logo{
+    background-color: rgb(55, 65, 80);
+    padding: 1rem;
+    border-bottom: 6px solid rgb(238, 57, 57);
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon_header{
+    color: white;
+    font-size: 1.9rem;
+}
+
+.toggle{
+    display: flex;
+    align-items: center;
+}
+
+/* main */
+
+.container_titre_article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+main{
+    padding: 1rem;
+}
+
+.p_titre{
+    text-align: center;
+    margin: 0;
+    font-size: 1.1rem;
+}
+
+.photo_marie{
+    object-fit: cover;
+
+    border-radius: 20px;
+
+}
+
+.container_img{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    max-width: 85vw;
+    
+}
+.clock{
+    color: rgb(55, 65, 80);
+}
+
+.p_clock{
+    margin-bottom: 0;
+}
+
+.rebecca{
+    font-weight: 700;
+}
+
+/* footer  */
+
+footer{
+    background-color: rgb(55, 65, 80);
+}
+
+.container_titre_footer{
+    display: flex;
+    justify-content: center;
+}
+
+.h2_footer{
+    margin: 0;
+}
+
+.icon_footer{
+    font-size: 2.5rem;
+    color: white;
+}
+
+.container_social{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: auto;
+}
+
+.danger_footer{
+    width: 90%;
+    margin: auto;
+}
+
+.p_danger{
+    color: white;
+    margin-bottom: 0;
+}
+
+.fin_footer{
+    background-color: black;
+    
+}
+
+.container_p_fin{
+    width: 90%;
+    margin: auto;
+}
+
+.p_fin{
+    margin-bottom: 0;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
