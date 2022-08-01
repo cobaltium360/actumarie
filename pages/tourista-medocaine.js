@@ -38,15 +38,15 @@ export default function Home() {
             La diarrhée est un problème fréquent.
             Elle se caractérise par des selles de consistance liquide ou molle, plus volumineuses et nombreuses qu&apos;à l&apos;habitude (plus de 3 selles par jour). Lorsque celle-ci est déclarée par l’influence de notre environnement, on l’appelle Tourista. 
             <span className='rebecca'> Dans le médoc</span>, zone du sud ouest de la France, située au nord de Bordeaux, ont été recensés ces dernières années de nombreux cas de tourista chez des personnes vivants ou bien simplement de passage dans cette zone. 
-            Le docteure <span className='rebecca'>Rébecca CAMOUX</span> et le docteur <span className='rebecca'>Nordine Oumouk</span>, chercheurs à <span className='rebecca'>l’INRAE</span> ce sont donc penchée sur ce qui pourrai être à l’origine de ces problèmes de colique et ont trouvé la cause de cette maladie : <span className='rebecca'>« La tourista médocaine ».</span> 
+            Le docteure <span className='rebecca'>Rébecca CAMOUX</span> et le docteur <span className='rebecca'>Nordine Oumouk</span>, chercheurs à <span className='rebecca'>l’INRAE</span> ce sont donc penchés sur ce qui pourrai être à l’origine de ces problèmes de colique et ont trouvé la cause de cette maladie : <span className='rebecca'>« La tourista médocaine ».</span> 
           </p>
-          <p>Dans cette article, vous trouverez toute les reponses à cette maladie , quelles sont les causes ? les symptomes ? ou encore comment faire si vous y êtes confronté</p>
+          <p>Dans cet article, vous trouverez toutes les reponses à cette maladie , quelles sont les causes ? les symptomes ? ou encore comment faire si vous y êtes confronté</p>
         </div>
         
         <div className='container_causes'>
           <h2>Quelles sont les causes ? </h2>
           <p>
-            Malgré le fait le fait que quelques touristes de passage dans la région aient été touché par la Tourista Médocaine, <span className='rebecca'>cette maladie est souvent contractée par les vignerons ou les personnes travaillant dans la vigne.</span> D’après le <span className='rebecca'>Dr CAMOUX</span>, du fait des fortes chaleurs rencontrés ces dernières années, la vigne aurai tendance à libérer une hormone qui provoquerai des diarrhées chez certaines personnes qui y sont confrontés de façon plus ou moins prolongés. Il arrive qu’on contracte cette maladie après quelques minutes à proximité de la vigne mais plus on est exposé à celle-ci et plus le risque de contracter la maladie est importante. 
+            Malgré le fait que quelques touristes de passage dans la région aient été touché par la Tourista Médocaine, <span className='rebecca'>cette maladie est souvent contractée par les vignerons ou les personnes travaillant dans la vigne.</span> D’après le <span className='rebecca'>Dr CAMOUX</span>, du fait des fortes chaleurs rencontrés ces dernières années, la vigne aurai tendance à libérer une hormone qui provoquerai des diarrhées chez certaines personnes qui y sont confrontés de façon plus ou moins prolongés. Il arrive qu’on contracte cette maladie après quelques minutes à proximité de la vigne mais plus on est exposé à celle-ci et plus le risque de contracter la maladie est importante. 
           </p>
           <div className='container_img'>
             <Image className="photo_marie" src="/vignes.jpg" alt="personne mal de ventre" width={500} height={500} quality={100}/>
@@ -64,7 +64,7 @@ export default function Home() {
         <div className='container_reagir'>
           <h2>Comment réagir ? </h2>
           <p>
-            Si vous pensez être touché par la tourista médocaine, il n’est pas nécessaire de prendre de médicament généralement utilisé pour ce type de problème (smecta, imodium, …), nous vous conseillons de consulter rapidement votre médecin. Pour les personnes travaillant dans des châteaux, <span className='rebecca'>il est également fortement conseillé de faire part de ceci a vos supérieurs.</span> Même si cela peut être effrayant, ils ne vous jugeront pas et et mettront en place des moyens que vous puissiez reprendre votre travail sans risque après votre rétablissement.
+            Si vous pensez être touché par la tourista médocaine, il n’est pas nécessaire de prendre de médicament généralement utilisé pour ce type de problème (smecta, imodium, …), nous vous conseillons de consulter rapidement votre médecin. Pour les personnes travaillant dans des châteaux, <span className='rebecca'>il est également fortement conseillé de faire part de ceci a vos supérieurs.</span> Même si cela peut être effrayant, ils ne vous jugeront pas et mettront en place des moyens que vous puissiez reprendre votre travail sans risque après votre rétablissement.
           </p>
         </div>
 
