@@ -38,7 +38,7 @@ export default function Home() {
             La diarrhée est un problème fréquent.
             Elle se caractérise par des selles de consistance liquide ou molle, plus volumineuses et nombreuses qu&apos;à l&apos;habitude (plus de 3 selles par jour). Lorsque celle-ci est déclarée par l’influence de notre environnement, on l’appelle Tourista. 
             <span className='rebecca'> Dans le médoc</span>, zone du sud ouest de la France, située au nord de Bordeaux, ont été recensés ces dernières années de nombreux cas de tourista chez des personnes vivants ou bien simplement de passage dans cette zone. 
-            Le docteure <span className='rebecca'>Rébecca CAMOUX</span>, chercheuse à <span className='rebecca'>l’INRAE</span> s’est donc penchée sur ce qui pourrai être à l’origine de ces problèmes de colique et a trouvé la cause de cette maladie : <span className='rebecca'>« La tourista médocaine ».</span> 
+            Le docteure <span className='rebecca'>Rébecca CAMOUX</span> et le docteur <span className='rebecca'>Nordine Oumouk</span>, chercheurs à <span className='rebecca'>l’INRAE</span> ce sont donc penchée sur ce qui pourrai être à l’origine de ces problèmes de colique et ont trouvé la cause de cette maladie : <span className='rebecca'>« La tourista médocaine ».</span> 
           </p>
           <p>Dans cette article, vous trouverez toute les reponses à cette maladie , quelles sont les causes ? les symptomes ? ou encore comment faire si vous y êtes confronté</p>
         </div>
@@ -67,6 +67,9 @@ export default function Home() {
             Si vous pensez être touché par la tourista médocaine, il n’est pas nécessaire de prendre de médicament généralement utilisé pour ce type de problème (smecta, imodium, …), nous vous conseillons de consulter rapidement votre médecin. Pour les personnes travaillant dans des châteaux, <span className='rebecca'>il est également fortement conseillé de faire part de ceci a vos supérieurs.</span> Même si cela peut être effrayant, ils ne vous jugeront pas et et mettront en place des moyens que vous puissiez reprendre votre travail sans risque après votre rétablissement.
           </p>
         </div>
+
+
+
       </main>
 
       <footer>
