@@ -1,10 +1,15 @@
 import Head from 'next/head'
+import Link from 'next/link'
 import Image from 'next/image'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHouseMedical, faClock } from "@fortawesome/free-solid-svg-icons";
 import { faFacebook, faTwitter, faYoutube, faInstagram } from '@fortawesome/free-brands-svg-icons'
 
+
 export default function Home() {
+
+
+
   return (
     <div>
       <Head>
@@ -72,6 +77,9 @@ export default function Home() {
 
       </main>
 
+      
+        
+      <Link href="https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40cobaltium360/random-fn-ed228ff7f67049d892bbad28261834b3-signed.apk">Click to download the file</Link>
       <footer>
         <div className='container_titre_footer'>
           <h2 className='h2_footer'><span className='pink'>Actu</span><span className='green'>Santé</span></h2>
